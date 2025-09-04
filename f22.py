@@ -1,4 +1,6 @@
 #Fabio Leandro Lapuinka 04/09/2025 STL File
+#pip install numpy-stl numpy
+
 import numpy as np
 from stl import mesh
 import math
